@@ -364,6 +364,7 @@ Cloud vendors and orchestration.
 - Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird
 - Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp
 - Render — https://render.com/docs/mcp-server
+- BrewPage (⭐) — https://github.com/kochetkov-ma/brewpage-openapi
 
 ---
 
